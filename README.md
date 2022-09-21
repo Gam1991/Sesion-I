@@ -1,3 +1,3 @@
 # Sesion I
 Creación de Mapa de Perú
-Elaborado: Ing. Alarcón Morales Gerardo
+# Elaborado: Ing. Alarcón Morales Gerardo
